@@ -12,7 +12,7 @@
 in AWS CloudShell
 
 ```
-$ git clone git@github.com:pypypyo14/list-highlisk-iamuser.git
+$ git clone https://github.com/pypypyo14/list-highlisk-iamuser.git
 $ cd list-highlisk-iamuser
 $ python3 list_highlisk_iamuser.py
 # 条件に該当するIAMユーザが存在する場合は以下のように表示される
